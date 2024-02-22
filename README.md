@@ -26,9 +26,9 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [Hᴀʀsʜ⚡](https://t.me/lil_harsh)
 
 [![DEADLYSPAMBOT TUTORIAL](https://img.shields.io/badge/Watch%20Now-blue)](https://youtu.be/aPSeonItsWQ)
 
-## What Is DeadlySpamBot
+## What Is UnSpamBot
 
-<b>DeadlySpamBot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
+<b>UnSpamBot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
 
 ## Is Safe To Deploy
 
